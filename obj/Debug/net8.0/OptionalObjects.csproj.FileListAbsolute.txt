@@ -1,0 +1,14 @@
+C:\Users\furqa\OptionalObjects\bin\Debug\net8.0\OptionalObjects.exe
+C:\Users\furqa\OptionalObjects\bin\Debug\net8.0\OptionalObjects.deps.json
+C:\Users\furqa\OptionalObjects\bin\Debug\net8.0\OptionalObjects.runtimeconfig.json
+C:\Users\furqa\OptionalObjects\bin\Debug\net8.0\OptionalObjects.dll
+C:\Users\furqa\OptionalObjects\bin\Debug\net8.0\OptionalObjects.pdb
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.AssemblyInfoInputs.cache
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.AssemblyInfo.cs
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.csproj.CoreCompileInputs.cache
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.dll
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\refint\OptionalObjects.dll
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.pdb
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\OptionalObjects.genruntimeconfig.cache
+C:\Users\furqa\OptionalObjects\obj\Debug\net8.0\ref\OptionalObjects.dll
